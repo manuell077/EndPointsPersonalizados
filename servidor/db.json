@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "XH0MlbM"
+    },
+    {
+      "id": "3",
+      "title": "el visitante",
+      "views": "300"
+    },
+    {
+      "id": "4",
+      "title": "grandes obras del estoicismo",
+      "views": "500"
+    },
+    {
+      "id": "5",
+      "title": "policias y ladrones",
+      "views": "200"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "3",
+      "text": "no me gusto este post",
+      "postId": "2"
+    },
+    {
+      "id": "4",
+      "text": "me gusto este post",
+      "postId": "2"
+    }
+  ],
+  "profile": {
+    "name": "Raul",
+    "apellido": "archila"
+  }
+}

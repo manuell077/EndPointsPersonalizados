@@ -1,0 +1,6 @@
+{
+    "/obtener_post/*": "/posts",
+    "/obtener_post_segun_id/:id": "/posts?id=:id",
+    "/obtener_comentarios_post/:post": "/comments?postId=:post",
+    "/perfil_usuario": "/profile"
+  }
