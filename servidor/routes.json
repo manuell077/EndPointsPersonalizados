@@ -1,6 +1,6 @@
 {
     "/publicaciones": "/posts",
-    "/post_segun_id/:id": "/posts?id=:id",
-    "/comentarios_post/:post": "/comments?postId=:post",
-    "/perfil_usuario": "/profile"
+    "/post_identificador/:id": "/posts?id=:id",
+    "/comentarios_publicacion/:post": "/comments?postId=:post",
+    "/perfil": "/profile"
   }
