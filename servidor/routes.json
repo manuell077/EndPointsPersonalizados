@@ -1,5 +1,5 @@
 {
-    "/post/*": "/posts",
+    "/publicaciones": "/posts",
     "/post_segun_id/:id": "/posts?id=:id",
     "/comentarios_post/:post": "/comments?postId=:post",
     "/perfil_usuario": "/profile"
